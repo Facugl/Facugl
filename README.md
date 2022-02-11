@@ -1,4 +1,4 @@
-### Hi there 👋💻
+### Hi, I'am Facundo 👋💻
 
 
 Hi there, thanks for stopping by, this is **Facundo Luna**.
@@ -27,6 +27,9 @@ const facundo = {
 </a>
 
 ---
+
+you can find me 🌎:
+- [twitter](https://twitter.com/FacuFrontend)
 
 ⭐️ From [@Facugl](https://github.com/Facugl)
 
