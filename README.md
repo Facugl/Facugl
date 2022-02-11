@@ -33,6 +33,4 @@ const facundo = {
 you can find me 🌎:
 - [twitter](https://twitter.com/FacuFrontend)
 
-⭐️ From [@Facugl](https://github.com/Facugl)
-
 <!--
