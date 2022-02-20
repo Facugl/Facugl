@@ -1,7 +1,5 @@
 <img align="right" alt="Cat eating ramen" height="110px" src="https://i.ibb.co/v3p3cC9/catramen.gif"/>
-
 <h1 align="center">Hi 👋, I'm Facundo Luna</h1>
-
 <h2 align="left">Languages and Tools:</h2>
 <span>
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-plain.svg" alt="html5" width="33" height="33"/> 
