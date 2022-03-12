@@ -5,6 +5,7 @@
   <li>💻 I am working in my personals projects</li>
   <li>🌱 Currently learning React</li>
   <li>❤️ Watch anime and coder</li>
+  <li>♟ Passionate chess player</li>
   <li>🧐 Interested in web 3</li>
   <li>🐱 Cat lover </li>
  </ul>
