@@ -3,8 +3,8 @@
 <h1 align="center" border="none">Hi 👋, I'm Facundo Luna</h1>
 <h3>I am a Civil Engineering student from Argentina. I am a tech and science enthusiast.</h3>
 <ul>
-  <li>💻 I am working in my personals projects</li>
-  <li>🌱 Currently learning React</li>
+  <li>💻 I'm currently working in my <b>personals projects</b></li>
+  <li>🌱 I'm currently learning React</li>
   <li>❤️ Watch anime and coder</li>
   <li>♟ Chess player</li>
   <li>🧐 Interested in web 3</li>
