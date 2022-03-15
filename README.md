@@ -1,6 +1,6 @@
 <img align="right" alt="Cat eating ramen" height="110px" src="https://i.ibb.co/v3p3cC9/catramen.gif"/>
 
-<h1 align="center" border="none">Hi, I'm Facundo Luna 🐱‍👤</h1>
+<h1 align="center" border="none">Hi, I'm Facundo Gastón Luna 🐱‍👤</h1>
 <h3>I am a Civil Engineering student from Argentina. I am a tech and science enthusiast.</h3>
 <ul>
   <li>💻 I'm currently working in my <b>personals projects</b></li>
