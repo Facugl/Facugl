@@ -11,19 +11,24 @@
   <li>🐱 Cat lover </li>
  </ul>
  
+
+ 
 <h3 align="left">Languages and Tools:</h3>
 <span>
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-plain.svg" alt="html5" width="33" height="33"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-plain.svg" alt="css3" width="33" height="33"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg" alt="javascript" width="33" height="33"/>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original.svg" alt="visual studio code" width="33" height="33"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="33" height="33"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original.svg" alt="visual studio code" width="32" height="32"/>
+<img src="https://simpleicons.org/icons/html5.svg" alt="html5" width="32" height="32"/> 
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css3" width="32" height="32"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass" width="32" height="32"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" alt="tailwind" width="32" height="32"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" width="32" height="32"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="javascript" width="32" height="32"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" width="32" height="32"/>
 </span>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/facundoluna/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mriganksingh11/" height="30" width="40" /></a>
-<a href="https://twitter.com/FacundoFrontend" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="menoctice" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/facundoluna/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mriganksingh11/" height="32" width="32" /></a>
+<a href="https://twitter.com/FacundoLuna__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="menoctice" height="32" width="32" /></a>
 </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Facugl&show_icons=true&theme=panda)](https://github.com/anuraghazra/github-readme-stats)
