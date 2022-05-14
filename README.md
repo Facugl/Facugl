@@ -3,7 +3,7 @@
 <h1 align="center" border="none">Hi, I'm Facundo Gastón Luna 🐱‍👤</h1>
 <h3>I am a Civil Engineering student from Argentina. I am a tech and science enthusiast.</h3>
 
-<ul align="center">
+<ul>
   <li>💻 I'm currently working in my <b>personals projects</b></li>
   <li>🌱 I'm currently learning React</li>
   <li>❤️ Watch anime and coder</li>
@@ -11,8 +11,6 @@
   <li>🧐 Interested in web 3</li>
   <li>🐱 Cat lover </li>
  </ul>
- 
-
  
 <h3 align="left">Languages and Tools:</h3>
 <span>
@@ -27,10 +25,9 @@
 </span>
 
 <h3 align="left">Connect with me:</h3>
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/FacundoLuna__?style=social">
 <p align="left">
-<a href="https://www.linkedin.com/in/facundoluna/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mriganksingh11/" height="32" width="32" /></a>
-<a href="https://twitter.com/FacundoLuna__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="menoctice" height="32" width="32" /></a>
+<a href="https://www.linkedin.com/in/facundoluna/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mriganksingh11/" height="32" width="32" /></a>
+<a href="https://twitter.com/FacundoLuna__" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="menoctice" height="32" width="32" /></a>
 </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Facugl&show_icons=true&theme=panda)](https://github.com/anuraghazra/github-readme-stats)
