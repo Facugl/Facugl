@@ -2,6 +2,10 @@
 
 <h1 align="center" border="none">Hi, I'm Facundo Gastón Luna 🐱‍👤</h1>
 <h3>I am a Civil Engineering student from Argentina. I am a tech and science enthusiast.</h3>
+
+<a href="https://www.linkedin.com/in/facundoluna/" target="blank"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/FacundoLuna__?color=1DA1F2&logo=twitter&style=for-the-badge"></a>
+
+
 <ul>
   <li>💻 I'm currently working in my <b>personals projects</b></li>
   <li>🌱 I'm currently learning React</li>
@@ -26,6 +30,7 @@
 </span>
 
 <h3 align="left">Connect with me:</h3>
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/FacundoLuna__?style=social">
 <p align="left">
 <a href="https://www.linkedin.com/in/facundoluna/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mriganksingh11/" height="32" width="32" /></a>
 <a href="https://twitter.com/FacundoLuna__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="menoctice" height="32" width="32" /></a>
