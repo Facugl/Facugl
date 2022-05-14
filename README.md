@@ -3,10 +3,7 @@
 <h1 align="center" border="none">Hi, I'm Facundo Gastón Luna 🐱‍👤</h1>
 <h3>I am a Civil Engineering student from Argentina. I am a tech and science enthusiast.</h3>
 
-<a href="https://twitter.com/FacundoLuna__" target="_blank"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/FacundoLuna__?color=1DA1F2&logo=twitter&style=for-the-badge" target="_blank"></a>
-
-
-<ul>
+<ul align="center">
   <li>💻 I'm currently working in my <b>personals projects</b></li>
   <li>🌱 I'm currently learning React</li>
   <li>❤️ Watch anime and coder</li>
