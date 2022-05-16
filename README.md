@@ -5,7 +5,6 @@
 
 <ul>
   <li>💻 I'm currently working in my <b>personals projects</b></li>
-  <li>🌱 I'm currently learning React</li>
   <li>❤️ Watch anime and coder</li>
   <li>♟ Chess player</li>
   <li>🐱 Cat lover </li>
