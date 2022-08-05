@@ -1,5 +1,3 @@
-![Banner](https://i.ibb.co/YZSfjMK/Git-Hub-Cover.png "Banner")
-
 <img align="right" alt="Cat eating ramen" height="110px" src="https://i.ibb.co/v3p3cC9/catramen.gif"/>
 
 <h1 align="center" border="none">Hola, soy Facundo 🐱‍👤</h1>
