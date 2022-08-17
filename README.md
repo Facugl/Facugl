@@ -23,7 +23,7 @@ Como **_Frontend Developer_** me apasiona crear soluciones y brindar las mejores
 
 ### 📬  Social
 
-<div style=display:flex>
+<div style="display:flex">
 <a style=margin-right:5px href="https://www.linkedin.com/in/facundoluna" target="_blank"> <img style="border-radius:5px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a style=margin-right:5px href="https://twitter.com/FacundoLuna__" target="_blank"> <img style="border-radius:5px" src="https://img.shields.io/badge/FacundoLuna__-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
@@ -36,6 +36,7 @@ Como **_Frontend Developer_** me apasiona crear soluciones y brindar las mejores
 
 ### 📊 GitHub Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Facugl&show_icons=true&theme=panda" />
-
-<img align="center src="https://github-readme-stats.vercel.app/api/top-langs/?username=Facugl&layout=compact&langs_count=8&show_icons=true&theme=panda&card_width=450" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Facugl&show_icons=true&theme=panda" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Facugl&layout=compact&langs_count=8&show_icons=true&theme=panda&card_width=450" />
+</div>
