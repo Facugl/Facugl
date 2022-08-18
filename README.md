@@ -14,7 +14,7 @@ Como **_Frontend Developer_** me apasiona crear soluciones y brindar las mejores
 ---
 
 ### 💻  Tech Stack
-![Tech Stack](https://skills.thijs.gg/icons?i=markdow,html,css,js,react,sass,git,figma")
+![Tech Stack](https://skills.thijs.gg/icons?i=markdown,html,css,js,react,sass,git,figma")
 
 ---
 
