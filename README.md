@@ -1,15 +1,15 @@
 ![Banner GitHub](https://i.ibb.co/YBsrLGc/Git-Hub-Banner2.png)
 
-![](https://img.shields.io/github/followers/Facugl?label=follow&logo=github&style=flat-square)
-![GitHub User's stars](https://img.shields.io/github/stars/Facugl?label=%E2%AD%90GitHub%20stars&style=flat-square)
-![](https://komarev.com/ghpvc/?username=Facugl&style=flat-square&color=ff69b4)
-
 <img align="right" alt="Cat eating ramen" height="110px" src="https://i.ibb.co/v3p3cC9/catramen.gif"/>
 
 <h1 align="center" border="none">👋 Hola, soy Facundo 🐱‍👤</h1>
 
 ### 👨‍💻 About me
 Como **_Frontend Developer_** me apasiona crear soluciones y brindar las mejores experiencias de usuario a través de interfaces atractivas y accesibles.
+
+![](https://img.shields.io/github/followers/Facugl?label=follow&logo=github&style=flat-square)
+![GitHub User's stars](https://img.shields.io/github/stars/Facugl?label=%E2%AD%90GitHub%20stars&style=flat-square)
+![](https://komarev.com/ghpvc/?username=Facugl&style=flat-square&color=ff69b4)
 
 ---
 
