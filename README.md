@@ -29,7 +29,7 @@ Como **_Frontend Developer_** me apasiona crear soluciones y brindar las mejores
 
 ### 📬  Social
 
-<div align='center' style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; column-gap: 20px;">
+<div align='center' style="display: flex;">
   <a style="margin-right:5px" href="https://www.linkedin.com/in/facundoluna" target="_blank">
     <img style="border-radius:5px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
@@ -45,8 +45,10 @@ Como **_Frontend Developer_** me apasiona crear soluciones y brindar las mejores
 
 ### 📊 GitHub Stats
 
-<div align='center' style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; column-gap: 20px;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Facugl&show_icons=true&theme=panda" />
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Facugl&layout=compact&langs_count=8&show_icons=true&theme=panda&card_width=445" />
+<div align='center' style="display: flex; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Facugl&show_icons=true&theme=panda" />
+</div>
+<br>
+<div align='center' style="display: flex; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Facugl&layout=compact&langs_count=8&show_icons=true&theme=panda&card_width=445" />
 </div>
