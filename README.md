@@ -19,17 +19,11 @@ Como **_Frontend Developer_** me apasiona crear soluciones y brindar las mejores
 ---
 
 ### 📬  Connect whit me
-<div align='center' style="display: flex;">
-  <a style="margin-right:5px" href="https://www.linkedin.com/in/facundoluna" target="_blank">
-    <img style="border-radius:5px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a style="margin-right:5px" href="https://twitter.com/FacundoLuna__" target="_blank">
-    <img style="border-radius:5px" src="https://img.shields.io/badge/FacundoLuna__-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-  </a>
-  <a href="mailto:facundolunaok@gmail.com">
-    <img style="border-radius:5px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</div>
+[<img src="https://img.shields.io/badge/Telegram-%40FacundoLuna7-28a8ea">](https://t.me/FacundoLuna7)
+[<img src="https://img.shields.io/badge/Twitter-%40FacundoLuna__-informational">](https://www.twitter.con/FacundoLuna__)
+[<img src="https://img.shields.io/badge/LinkedIn-FacundoLuna-informational">](https://www.linkedin.com/in/facundoluna)
+[<img src="https://img.shields.io/badge/Email-facundolunaok%40gmail.com-orange">](mailto:facundolunaok@gmail.com)
+
 
 ---
 
