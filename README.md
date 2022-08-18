@@ -27,7 +27,7 @@ Como **_Frontend Developer_** me apasiona crear soluciones y brindar las mejores
 
 ---
 
-### 📬  Social
+### 📬  Connect whit me
 
 <div align='center' style="display: flex;">
   <a style="margin-right:5px" href="https://www.linkedin.com/in/facundoluna" target="_blank">
