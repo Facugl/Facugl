@@ -14,7 +14,7 @@ Como **_Frontend Developer_** me apasiona crear soluciones y brindar las mejores
 ---
 
 ### 💻  Tech Stack
-<div align='center' style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; column-gap: 20px;">
+<div align='center' style="display: flex;">
   <img style="border-radius:5px" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
   <img style="border-radius:5px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img style="border-radius:5px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -45,7 +45,7 @@ Como **_Frontend Developer_** me apasiona crear soluciones y brindar las mejores
 
 ### 📊 GitHub Stats
 
-<div align='center' style="display: flex; justify-content: center;">
+<div align='center' style="display: flex;">
   <img src="https://github-readme-stats.vercel.app/api?username=Facugl&show_icons=true&theme=panda" />
 </div>
 <br>
