@@ -35,3 +35,5 @@ Como **_Frontend Developer_** me apasiona crear soluciones y brindar las mejores
 <div align='center' style="display: flex; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Facugl&layout=compact&langs_count=8&show_icons=true&theme=panda&card_width=445" />
 </div>
+
+![Snake svg](https://github.com/Facugl/Facugl/blob/output/github-contribution-grid-snake.gif)
