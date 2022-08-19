@@ -2,7 +2,7 @@
 
 <img align="right" alt="Cat eating ramen" height="110px" src="https://i.ibb.co/v3p3cC9/catramen.gif"/>
 
-<h1 align="center" border="none">👋 Hola, soy Facundo 🐱‍👤</h1>
+<h1 align="center">👋 Hola, soy Facundo 🐱‍👤</h1>
 
 ### 👨‍💻 About me
 Como **_Frontend Developer_** me apasiona crear soluciones y brindar las mejores experiencias de usuario a través de interfaces atractivas y accesibles.
@@ -36,4 +36,4 @@ Como **_Frontend Developer_** me apasiona crear soluciones y brindar las mejores
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Facugl&layout=compact&langs_count=8&show_icons=true&theme=panda&card_width=445" />
 </div>
 
-![Snake svg](https://github.com/Facugl/Facugl/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake dark](https://github.com/Facugl/Facugl/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
