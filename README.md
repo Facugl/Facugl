@@ -7,7 +7,7 @@ Passionate about science and technology. As a **_Front-End Developer_** I like t
 
 ![](https://img.shields.io/github/followers/Facugl?label=follow&logo=github&style=flat-square)
 ![GitHub User's stars](https://img.shields.io/github/stars/Facugl?label=%E2%AD%90GitHub%20stars&style=flat-square)
-![](https://komarev.com/ghpvc/?username=Facugl&style=flat-square&color=3ea6ff)
+![](https://komarev.com/ghpvc/?username=Facugl&style=flat-square&color=blue)
 
 ---
 
