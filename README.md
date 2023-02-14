@@ -1,28 +1,26 @@
-![Banner GitHub](https://i.ibb.co/YBsrLGc/Git-Hub-Banner2.png)
+<img align="right" alt="Cat eating ramen" height="140px" src="https://i.ibb.co/v3p3cC9/catramen.gif"/>
 
-<img align="right" alt="Cat eating ramen" height="110px" src="https://i.ibb.co/v3p3cC9/catramen.gif"/>
-
-<h1 align="center">👋 Hola, soy Facundo 🐱‍👤</h1>
+<h1 align="center">👋 Hi there, I'm Facundo 🐱‍👤</h1>
 
 ### 👨‍💻 About me
-Como **_Frontend Developer_** me apasiona crear soluciones y brindar las mejores experiencias de usuario a través de interfaces atractivas y accesibles.
+Passionate about science and technology. As a **_Front-End Developer_** I like to create solutions with the best user experiences through attractive and accessible interfaces.
 
 ![](https://img.shields.io/github/followers/Facugl?label=follow&logo=github&style=flat-square)
 ![GitHub User's stars](https://img.shields.io/github/stars/Facugl?label=%E2%AD%90GitHub%20stars&style=flat-square)
-![](https://komarev.com/ghpvc/?username=Facugl&style=flat-square&color=ff69b4)
+![](https://komarev.com/ghpvc/?username=Facugl&style=flat-square&color=3ea6ff)
 
 ---
 
 ### 💻  Tech Stack
-![Tech Stack](https://skills.thijs.gg/icons?i=markdown,html,css,js,react,sass,git,figma")
+![Tech Stack](https://skills.thijs.gg/icons?i=markdown,html,css,js,typescript,sass,react,redux,git,figma,")
 
 ---
 
 ### 📬  Connect whit me
-[<img src="https://img.shields.io/badge/Telegram-%40FacundoLuna7-28a8ea">](https://t.me/FacundoLuna7)
+[<img src="https://img.shields.io/badge/Telegram-%40FacundoLuna7-blue">](https://t.me/FacundoLuna7)
 [<img src="https://img.shields.io/badge/Twitter-%40FacundoLuna__-informational">](https://www.twitter.con/FacundoLuna__)
 [<img src="https://img.shields.io/badge/LinkedIn-FacundoLuna-informational">](https://www.linkedin.com/in/facundoluna)
-[<img src="https://img.shields.io/badge/Email-facundolunaok%40gmail.com-orange">](mailto:facundolunaok@gmail.com)
+[<img src="https://img.shields.io/badge/Email-facundolunaok%40gmail.com-blue">](mailto:facundolunaok@gmail.com)
 
 
 ---
