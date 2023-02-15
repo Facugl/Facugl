@@ -5,9 +5,9 @@
 ### 👨‍💻 About me
 Passionate about science and technology. As a **_Front-End Developer_** I like to create solutions with the best user experiences through attractive and accessible interfaces.
 
-![](https://img.shields.io/github/followers/Facugl?label=follow&logo=github&style=flat-square)
+![GitHub Followers](https://img.shields.io/github/followers/Facugl?label=follow&logo=github&style=flat-square)
 ![GitHub User's stars](https://img.shields.io/github/stars/Facugl?label=%E2%AD%90GitHub%20stars&style=flat-square)
-![](https://komarev.com/ghpvc/?username=Facugl&style=flat-square&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Facugl&style=flat-square&color=blue)
 
 ---
 
@@ -18,7 +18,7 @@ Passionate about science and technology. As a **_Front-End Developer_** I like t
 
 ### 📬  Connect whit me
 [<img src="https://img.shields.io/badge/Telegram-%40FacundoLuna7-blue">](https://t.me/FacundoLuna7)
-[<img src="https://img.shields.io/badge/Twitter-%40FacundoLuna__-informational">](https://www.twitter.con/FacundoLuna__)
+[<img src="https://img.shields.io/badge/Twitter-%40FacuFrontend-informational">](https://www.twitter.con/FacuFrontend)
 [<img src="https://img.shields.io/badge/LinkedIn-FacundoLuna-informational">](https://www.linkedin.com/in/facundoluna)
 [<img src="https://img.shields.io/badge/Email-facundolunaok%40gmail.com-blue">](mailto:facundolunaok@gmail.com)
 
