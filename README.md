@@ -1,5 +1,5 @@
-<img align="right" alt="Cat eating ramen" height="140px" src="https://i.ibb.co/v3p3cC9/catramen.gif"/>
-
+<img align="right" alt="Cat eating ramen" height="110px" src="https://i.ibb.co/v3p3cC9/catramen.gif"/>
+<br />
 <h1 align="center">👋 Hi there, I'm Facundo</h1>
 
 # 👨‍💻 About me:
