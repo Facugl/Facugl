@@ -3,7 +3,13 @@
 <h1 align="center">👋 Hi there, I'm Facundo</h1>
 
 # 👨‍💻 About me:
-Determined and productive web developer with a passion for creative solutions. Looking for an entry-level position at a great company to be a hard-working asset in any team, to learn, grow and develop long-term. 🐱‍👤
+Soy desarrollador Full-Stack con un enfoque técnico y creativo, con experiencia en el desarrollo de APIs RESTful y aplicaciones web responsivas usando Java, Spring Boot y React.
+
+Me gusta construir soluciones que aporten valor real, prestando atención a la calidad del código, la estructura del proyecto y la experiencia del usuario.
+
+Mi formación técnica y mis estudios en Ingeniería Civil reforzaron mi capacidad para analizar y abstraer problemas complejos, mientras que mi experiencia previa en ventas me ayudó a desarrollar habilidades como la comunicación empática y el trabajo en equipo.
+
+Actualmente, estoy en constante aprendizaje y buscando colaborar en proyectos que me desafíen y me permitan seguir creciendo junto a otros desarrolladores. 🐱‍👤
 
 <div align='center' style="display: flex;">
   <img src="https://img.shields.io/github/followers/Facugl?label=follow&logo=github&style=flat" />
@@ -28,7 +34,7 @@ Determined and productive web developer with a passion for creative solutions. L
 # 📬 Connect whit me:
 [<img src="https://img.shields.io/badge/Email-facundolunaok%40gmail.com-ea4335">](mailto:facundolunaok@gmail.com)
 [<img src="https://img.shields.io/badge/LinkedIn-FacundoLuna-166CA5">](https://www.linkedin.com/in/facundoluna)
-[<img src="https://img.shields.io/badge/Twitter-%40Facugl_-4AA2DD">](https://www.twitter.con/Facugl_)
+[<img src="https://img.shields.io/badge/Twitter-%40isntfacundo-4AA2DD">](https://www.twitter.con/Facugl_)
 
 ---
 
