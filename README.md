@@ -8,7 +8,7 @@ Java Backend Developer focused on building secure and scalable REST APIs using S
 
 I enjoy designing backend systems, implementing authentication and authorization, and building maintainable architectures using modern Java technologies.
 
-Currently pursuing a Bachelor's Degree in Data Science, expanding my knowledge in statistics, algorithms, and data-driven systems. 🐱‍👤
+Currently pursuing a Bachelor's Degree in Data Science, expanding my knowledge in statistics, algorithms, and data-driven systems.
 
 <div align='center' style="display: flex;">
   <img src="https://img.shields.io/github/followers/Facugl?label=follow&logo=github&style=flat" />
@@ -48,12 +48,3 @@ Currently pursuing a Bachelor's Degree in Data Science, expanding my knowledge i
 # 📬 Connect whith me:
 [<img src="https://img.shields.io/badge/Email-facundolunaok%40gmail.com-ea4335">](mailto:facundolunaok@gmail.com)
 [<img src="https://img.shields.io/badge/LinkedIn-FacundoLuna-166CA5">](https://www.linkedin.com/in/facundoluna)
-
----
-
-# 📊 GitHub Stats:
-<div align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=Facugl&theme=dracula&hide_border=true&include_all_commits=false&count_private=true" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Facugl&theme=dracula&hide_border=true" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Facugl&theme=dracula&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
-</div>
