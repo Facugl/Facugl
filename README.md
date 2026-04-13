@@ -3,7 +3,7 @@
   
   # 👋 Hi, I'm Facundo Luna
   
-  ### Fullstack Developer | Java & Spring Boot | React
+  ### Java Backend Developer | Spring Boot | REST APIs
   
   <p>
     <img src="https://img.shields.io/github/followers/Facugl?label=Followers&logo=github&style=flat-square" />
@@ -16,25 +16,35 @@
 
 ## 🚀 About Me
 
-I'm a **Fullstack Developer** with a strong backend foundation in Java and Spring Boot, focused on building **secure, scalable REST APIs** and integrating them with modern React applications.
+I'm a **Java Backend Developer** focused on building **scalable and secure applications** using Spring Boot.
 
-### 🎯 Core Expertise
+I have experience designing and developing **REST APIs**, implementing **authentication and authorization flows (JWT, RBAC)**, and working with **relational databases** to ensure reliable and consistent data handling.
 
-- 🔐 **Security & Authentication**: JWT implementation, RBAC, and Spring Security configuration
-- 🏗️ **Backend Development**: RESTful API design, service layer architecture, and clean code practices
-- 🔄 **Full-Stack Integration**: API communication, state management with Redux, and data flow handling
-- 📊 **Database Design**: PostgreSQL and MySQL with Hibernate ORM
-- 🐳 **DevOps Basics**: Docker containerization and GitHub Actions CI/CD
+While my core focus is backend development, I also have experience integrating APIs with **React applications**, managing client-server communication and application state.
 
-### 🌱 Learning & Growing
+---
 
-- 📚 Exploring **Spring Cloud** fundamentals (Config Server, Eureka, API Gateway)
+## 🎯 Core Expertise
+
+- 🏗️ **Backend Development**: RESTful API design, layered architecture, clean code principles
+- 🔐 **Security**: JWT authentication, RBAC, Spring Security configuration
+- 📊 **Databases**: PostgreSQL, MySQL, Hibernate ORM
+- 🔄 **API Integration**: Frontend-backend communication with React and Redux
+- 🐳 **DevOps Basics**: Docker containerization and CI/CD with GitHub Actions
+
+---
+
+## 🌱 Learning & Growing
+
+- 📚 Exploring **Spring Cloud** (Config Server, Eureka, API Gateway)
+- 🧠 Deepening knowledge in **microservices architecture** and distributed systems
 - 🎓 Pursuing a **Bachelor's Degree in Data Science**
-- 📈 Deepening knowledge in scalable architectures and data-driven systems
 
-### 💼 Looking For
+---
 
-**First professional opportunity** as a **Fullstack Developer** or **Java Backend Developer** where I can contribute, learn from experienced teams, and grow as a software engineer.
+## 💼 Looking For
+
+**First professional opportunity** as a **Java Backend Developer**, where I can contribute to building scalable systems, learn from experienced teams, and continue growing as a software engineer.
 
 ---
 
@@ -90,8 +100,9 @@ I'm a **Fullstack Developer** with a strong backend foundation in Java and Sprin
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Facugl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Facugl&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=Facugl&theme=tokyonight" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Facugl&theme=tokyonight" />
 </div>
 
 ---
