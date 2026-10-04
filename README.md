@@ -1,10 +1,10 @@
 <div align="center">
   <img alt="Cat eating ramen" height="120px" src="https://i.ibb.co/v3p3cC9/catramen.gif"/>
-  
+
   # 👋 Hi, I'm Facundo Luna
-  
-  ### Java Backend Developer | Spring Boot | REST APIs
-  
+
+  ### Java Backend Developer | Spring Boot | REST APIs | Security (JWT, RBAC) | PostgreSQL
+
   <p>
     <img src="https://img.shields.io/github/followers/Facugl?label=Followers&logo=github&style=flat-square" />
     <img src="https://img.shields.io/github/stars/Facugl?label=Stars&style=flat-square" />
@@ -18,16 +18,27 @@
 
 I'm a **Java Backend Developer** focused on building **scalable and secure applications** using Spring Boot.
 
-I have experience designing and developing **REST APIs**, implementing **authentication and authorization flows (JWT, RBAC)**, and working with **relational databases** to ensure reliable and consistent data handling.
+I design REST APIs, implement authentication and authorization flows (**JWT, RBAC**), and work with relational databases to keep data consistent and reliable. I also audit my own projects for real issues — security gaps, missing test coverage, broken business logic — instead of just shipping and moving on.
 
-While my core focus is backend development, I also have experience integrating APIs with **React applications**, managing client-server communication and application state.
+While backend is my core focus, I also integrate APIs with **React** applications, handling client-server communication and app state end to end.
+
+---
+
+## 🧩 Featured Projects
+
+**[InventoryIQ](https://github.com/Facugl/inventoryiq)** — Decision-support system that turns sales and inventory data into concrete purchase recommendations (what to restock, when, how much), built with hexagonal architecture and Domain-Driven Design. Every recommendation shows the formula and data behind it.
+`Java 17` `Spring Boot` `PostgreSQL` `React` `TypeScript` `Docker`
+
+**[Banking System](https://github.com/Facugl/banking_system)** — Production-style banking backend simulating account management, transfers, and transaction auditing. Security-audited: fixed a username-enumeration bug and a JWT-filter crash, backed by 108 automated tests. [Live demo](https://banking-system-frontend-fny8.onrender.com)
+`Java 17` `Spring Boot` `Spring Security` `MySQL` `Docker` `React`
 
 ---
 
 ## 🎯 Core Expertise
 
-- 🏗️ **Backend Development**: RESTful API design, layered architecture, clean code principles
+- 🏗️ **Backend Development**: RESTful API design, layered/hexagonal architecture, clean code principles
 - 🔐 **Security**: JWT authentication, RBAC, Spring Security configuration
+- 🧪 **Testing**: JUnit 5, Mockito, MockMvc — unit and integration tests
 - 📊 **Databases**: PostgreSQL, MySQL, Hibernate ORM
 - 🔄 **API Integration**: Frontend-backend communication with React and Redux
 - 🐳 **DevOps Basics**: Docker containerization and CI/CD with GitHub Actions
@@ -36,15 +47,15 @@ While my core focus is backend development, I also have experience integrating A
 
 ## 🌱 Learning & Growing
 
-- 📚 Exploring **Spring Cloud** (Config Server, Eureka, API Gateway)
-- 🧠 Deepening knowledge in **microservices architecture** and distributed systems
-- 🎓 Pursuing a **Bachelor's Degree in Data Science**
+- 📚 Exploring **Spring Cloud** (Config Server, Eureka, API Gateway) and microservices architecture
+- 🎓 Pursuing a **Bachelor's Degree in Data Science** at UCASAL — building an analytics foundation I'm starting to apply on top of my backend work, aimed at Data Engineering
+- 🔍 Practicing honest self-review: revisiting my own projects for real bugs and gaps, not just new features
 
 ---
 
 ## 💼 Looking For
 
-**First professional opportunity** as a **Java Backend Developer**, where I can contribute to building scalable systems, learn from experienced teams, and continue growing as a software engineer.
+**My first professional opportunity** as a **Java Backend Developer**, where I can contribute to building scalable systems, learn from experienced teams, and keep growing as a software engineer.
 
 ---
 
@@ -80,7 +91,6 @@ While my core focus is backend development, I also have experience integrating A
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 </details>
 
@@ -110,16 +120,18 @@ While my core focus is backend development, I also have experience integrating A
 ## 📬 Let's Connect!
 
 <div align="center">
-  
+
+  [![Portfolio](https://img.shields.io/badge/Portfolio-facundoluna.vercel.app-1A365D?style=for-the-badge&logo=vercel&logoColor=white)](https://facundoluna.vercel.app)
   [![Email](https://img.shields.io/badge/Email-facundolunaok%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:facundolunaok@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Facundo%20Luna-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/facundoluna)
-  
+  [![X](https://img.shields.io/badge/X-%40isntfacundo-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/isntfacundo)
+
 </div>
 
 <div align="center">
-  
+
   ### 💡 Ready to contribute | Eager to learn | Open to opportunities
-  
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-  
+
 </div>
