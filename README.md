@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Cat eating ramen" height="120px" src="https://i.ibb.co/v3p3cC9/catramen.gif"/>
+  <img alt="Cat eating ramen" height="120px" src="assets/cat-ramen.gif"/>
 
   # 👋 Hi, I'm Facundo Luna
 
