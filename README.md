@@ -7,7 +7,6 @@
 
   <p>
     <img src="https://img.shields.io/github/followers/Facugl?label=Followers&logo=github&style=flat-square" />
-    <img src="https://img.shields.io/github/stars/Facugl?label=Stars&style=flat-square" />
     <img src="https://komarev.com/ghpvc/?username=Facugl&style=flat-square&color=blue" />
   </p>
 </div>
@@ -110,9 +109,10 @@ While backend is my core focus, I also integrate APIs with **React** application
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=Facugl&theme=tokyonight" />
+  <img height="165em" src="https://streak-stats.demolab.com?user=Facugl&theme=tokyonight" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Facugl&show_icons=true&theme=tokyonight&hide=stars&hide_border=true" />
   <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Facugl&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Facugl&layout=compact&theme=tokyonight&exclude_repo=resume,data-science-coursework&hide_border=true" />
 </div>
 
 ---
